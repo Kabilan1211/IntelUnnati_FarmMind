@@ -1,0 +1,5 @@
+A significant rise in road accidents, together with rising urbanization and motorization in India, have led to a high number of fatalities and injuries. For effective road safety management and prevention, it is essential to comprehend the geographic distribution and features of accident-prone locations. 
+
+the development of specialized treatments. This project aims to provide a thorough examination of accident locations on Indian roads using geospatial techniques and data.The accident data was regionally visualized and analyzed using Geographic Information System (GIS) techniques, allowing patterns and trends to be found.By merging many perspectives, this study advances understanding of the intricate dynamics of road accidents in India. 
+
+accident data analysis using geography. It underlines the significance of using a spatially aware approach to address issues related to road safety and lays the foundation for further research in this field. Finally, the results of this study may contribute to lowering accident rates, saving lives, and enhancing Indians' general safety.
